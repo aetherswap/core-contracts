@@ -6,7 +6,7 @@
 [![Mythx](https://github.com/Aetherswap/core-contracts/actions/workflows/mythx.yml/badge.svg)](https://github.com/Aetherswap/core-contracts/actions/workflows/mythx.yml)
 [![npm version](https://img.shields.io/npm/v/@aetherswap/core-contracts/latest.svg)](https://www.npmjs.com/package/@aetherswap/core-contracts/v/latest)
 
-***Forked from (Uniswap V3)[https://github.com/uniswap/v3-core]***
+***Forked from (Uniswap V3)***
 
 This repository contains the core smart contracts for the Aetherswap Protocol.
 For higher level contracts, see the [Periphery](https://github.com/Aetherswap/periphery)
